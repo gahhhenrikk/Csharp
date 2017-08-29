@@ -1,0 +1,8 @@
+C:\Users\MARCELO\Desktop\PROJETOS\C#\converter_dados\converter_dados\bin\Debug\netcoreapp1.1\converter_dados.deps.json
+C:\Users\MARCELO\Desktop\PROJETOS\C#\converter_dados\converter_dados\bin\Debug\netcoreapp1.1\converter_dados.runtimeconfig.json
+C:\Users\MARCELO\Desktop\PROJETOS\C#\converter_dados\converter_dados\bin\Debug\netcoreapp1.1\converter_dados.runtimeconfig.dev.json
+C:\Users\MARCELO\Desktop\PROJETOS\C#\converter_dados\converter_dados\bin\Debug\netcoreapp1.1\converter_dados.dll
+C:\Users\MARCELO\Desktop\PROJETOS\C#\converter_dados\converter_dados\bin\Debug\netcoreapp1.1\converter_dados.pdb
+C:\Users\MARCELO\Desktop\PROJETOS\C#\converter_dados\converter_dados\obj\Debug\netcoreapp1.1\converter_dados.AssemblyInfo.cs
+C:\Users\MARCELO\Desktop\PROJETOS\C#\converter_dados\converter_dados\obj\Debug\netcoreapp1.1\converter_dados.dll
+C:\Users\MARCELO\Desktop\PROJETOS\C#\converter_dados\converter_dados\obj\Debug\netcoreapp1.1\converter_dados.pdb

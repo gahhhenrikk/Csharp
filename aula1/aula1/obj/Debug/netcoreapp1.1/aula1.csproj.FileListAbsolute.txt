@@ -1,0 +1,9 @@
+C:\Users\MARCELO\Desktop\PROJETOS\C#\aula1\aula1\bin\Debug\netcoreapp1.1\aula1.deps.json
+C:\Users\MARCELO\Desktop\PROJETOS\C#\aula1\aula1\bin\Debug\netcoreapp1.1\aula1.runtimeconfig.json
+C:\Users\MARCELO\Desktop\PROJETOS\C#\aula1\aula1\bin\Debug\netcoreapp1.1\aula1.runtimeconfig.dev.json
+C:\Users\MARCELO\Desktop\PROJETOS\C#\aula1\aula1\bin\Debug\netcoreapp1.1\aula1.dll
+C:\Users\MARCELO\Desktop\PROJETOS\C#\aula1\aula1\bin\Debug\netcoreapp1.1\aula1.pdb
+C:\Users\MARCELO\Desktop\PROJETOS\C#\aula1\aula1\obj\Debug\netcoreapp1.1\aula1.csprojResolveAssemblyReference.cache
+C:\Users\MARCELO\Desktop\PROJETOS\C#\aula1\aula1\obj\Debug\netcoreapp1.1\aula1.AssemblyInfo.cs
+C:\Users\MARCELO\Desktop\PROJETOS\C#\aula1\aula1\obj\Debug\netcoreapp1.1\aula1.dll
+C:\Users\MARCELO\Desktop\PROJETOS\C#\aula1\aula1\obj\Debug\netcoreapp1.1\aula1.pdb

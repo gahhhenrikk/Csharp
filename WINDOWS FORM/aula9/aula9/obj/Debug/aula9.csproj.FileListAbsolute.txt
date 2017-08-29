@@ -1,0 +1,14 @@
+c:\users\marcelo\documents\visual studio 2017\Projects\aula9\aula9\bin\Debug\aula9.exe.config
+c:\users\marcelo\documents\visual studio 2017\Projects\aula9\aula9\bin\Debug\aula9.exe
+c:\users\marcelo\documents\visual studio 2017\Projects\aula9\aula9\bin\Debug\aula9.pdb
+c:\users\marcelo\documents\visual studio 2017\Projects\aula9\aula9\obj\Debug\aula9.csprojResolveAssemblyReference.cache
+c:\users\marcelo\documents\visual studio 2017\Projects\aula9\aula9\obj\Debug\aula9.Form1.resources
+c:\users\marcelo\documents\visual studio 2017\Projects\aula9\aula9\obj\Debug\aula9.Properties.Resources.resources
+c:\users\marcelo\documents\visual studio 2017\Projects\aula9\aula9\obj\Debug\aula9.csproj.GenerateResource.Cache
+c:\users\marcelo\documents\visual studio 2017\Projects\aula9\aula9\obj\Debug\aula9.exe
+c:\users\marcelo\documents\visual studio 2017\Projects\aula9\aula9\obj\Debug\aula9.pdb
+C:\Users\MARCELO\documents\visual studio 2017\Projects\aula9\aula9\obj\Debug\aula9.fatorial.resources
+C:\Users\MARCELO\documents\visual studio 2017\Projects\aula9\aula9\obj\Debug\aula9.manipulaString.resources
+C:\Users\MARCELO\documents\visual studio 2017\Projects\aula9\aula9\obj\Debug\aula9.contador.resources
+C:\Users\MARCELO\documents\visual studio 2017\Projects\aula9\aula9\obj\Debug\aula9.relogio.resources
+C:\Users\MARCELO\documents\visual studio 2017\Projects\aula9\aula9\obj\Debug\aula9.while.resources

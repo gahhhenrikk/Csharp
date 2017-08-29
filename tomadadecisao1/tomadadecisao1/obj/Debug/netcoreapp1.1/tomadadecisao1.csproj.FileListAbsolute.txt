@@ -1,0 +1,9 @@
+C:\Users\MARCELO\Desktop\PROJETOS\C#\tomadadecisao1\tomadadecisao1\bin\Debug\netcoreapp1.1\tomadadecisao1.deps.json
+C:\Users\MARCELO\Desktop\PROJETOS\C#\tomadadecisao1\tomadadecisao1\bin\Debug\netcoreapp1.1\tomadadecisao1.runtimeconfig.json
+C:\Users\MARCELO\Desktop\PROJETOS\C#\tomadadecisao1\tomadadecisao1\bin\Debug\netcoreapp1.1\tomadadecisao1.runtimeconfig.dev.json
+C:\Users\MARCELO\Desktop\PROJETOS\C#\tomadadecisao1\tomadadecisao1\bin\Debug\netcoreapp1.1\tomadadecisao1.dll
+C:\Users\MARCELO\Desktop\PROJETOS\C#\tomadadecisao1\tomadadecisao1\bin\Debug\netcoreapp1.1\tomadadecisao1.pdb
+C:\Users\MARCELO\Desktop\PROJETOS\C#\tomadadecisao1\tomadadecisao1\obj\Debug\netcoreapp1.1\tomadadecisao1.csprojResolveAssemblyReference.cache
+C:\Users\MARCELO\Desktop\PROJETOS\C#\tomadadecisao1\tomadadecisao1\obj\Debug\netcoreapp1.1\tomadadecisao1.AssemblyInfo.cs
+C:\Users\MARCELO\Desktop\PROJETOS\C#\tomadadecisao1\tomadadecisao1\obj\Debug\netcoreapp1.1\tomadadecisao1.dll
+C:\Users\MARCELO\Desktop\PROJETOS\C#\tomadadecisao1\tomadadecisao1\obj\Debug\netcoreapp1.1\tomadadecisao1.pdb

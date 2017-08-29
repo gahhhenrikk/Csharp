@@ -1,0 +1,10 @@
+c:\users\marcelo\documents\visual studio 2017\Projects\primeiro_proj_curso\primeiro_proj_curso\bin\Debug\primeiro_proj_curso.exe.config
+c:\users\marcelo\documents\visual studio 2017\Projects\primeiro_proj_curso\primeiro_proj_curso\bin\Debug\primeiro_proj_curso.exe
+c:\users\marcelo\documents\visual studio 2017\Projects\primeiro_proj_curso\primeiro_proj_curso\bin\Debug\primeiro_proj_curso.pdb
+c:\users\marcelo\documents\visual studio 2017\Projects\primeiro_proj_curso\primeiro_proj_curso\obj\Debug\primeiro_proj_curso.csprojResolveAssemblyReference.cache
+c:\users\marcelo\documents\visual studio 2017\Projects\primeiro_proj_curso\primeiro_proj_curso\obj\Debug\primeiro_proj_curso.form_principal.resources
+c:\users\marcelo\documents\visual studio 2017\Projects\primeiro_proj_curso\primeiro_proj_curso\obj\Debug\primeiro_proj_curso.login.resources
+c:\users\marcelo\documents\visual studio 2017\Projects\primeiro_proj_curso\primeiro_proj_curso\obj\Debug\primeiro_proj_curso.Properties.Resources.resources
+c:\users\marcelo\documents\visual studio 2017\Projects\primeiro_proj_curso\primeiro_proj_curso\obj\Debug\primeiro_proj_curso.csproj.GenerateResource.Cache
+c:\users\marcelo\documents\visual studio 2017\Projects\primeiro_proj_curso\primeiro_proj_curso\obj\Debug\primeiro_proj_curso.exe
+c:\users\marcelo\documents\visual studio 2017\Projects\primeiro_proj_curso\primeiro_proj_curso\obj\Debug\primeiro_proj_curso.pdb
